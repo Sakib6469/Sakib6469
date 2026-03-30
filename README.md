@@ -40,6 +40,17 @@ MongoDB | MySQL
 
 ---
 
+## 🔥 Currently Working On
+- Building full-stack web applications
+- Improving GitHub portfolio
+- Strengthening data structures & algorithms
+
+---
+
+## ⚡ Goals
+- Build 5+ strong portfolio projects
+- Master full-stack development
+
 ## 📊 GitHub Stats
 ![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakib6469&show_icons=true&theme=dark)
 
