@@ -31,7 +31,6 @@ MongoDB | MySQL
 ---
 
 ## 📂 Featured Projects
-🚧 (Uploading soon — actively building)
 
 - 🔹 Store Management System (Database Design)
 - 🔹 Personal Finance Tracker (C++)
